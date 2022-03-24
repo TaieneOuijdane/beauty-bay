@@ -1,0 +1,12 @@
+
+.produit-panier{
+    background-color: rgb(153, 224, 224);
+    border-bottom: solid 3px black;
+    display: flex;
+    flex-direction: column;
+}
+.produit-panier-cover {
+	height: 100px;
+	width: 100px;
+	border-radius: 20px;
+}

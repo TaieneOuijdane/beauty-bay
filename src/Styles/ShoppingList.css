@@ -1,0 +1,16 @@
+.mp-shopping-list {
+	list-style-type: none;
+	padding: 36px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+    background-color: rgb(233, 233, 233);
+}
+.mp-add-button{
+    padding: 5px 10px;
+    text-transform: capitalize;
+    color: white;
+    background-color: black;
+    border: none;
+    width: 100%;
+}

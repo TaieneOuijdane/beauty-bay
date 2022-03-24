@@ -1,0 +1,80 @@
+.mp-banner{
+    color: black;
+    text-align: left;
+    padding: 32px;
+    border-bottom: solid 3px black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+.mp-title{
+    padding-left: 32px;
+}
+.button-title{
+    background-color: white;
+    border: none;
+}
+.panier-button{
+    background-color: white;
+    border-color: black;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center
+}
+.icon-search{
+    border-style: none;
+}
+body {
+    background-color: purple
+  }
+  
+.form-inputs {
+    position: relative
+}
+button{
+    border-style: none;
+}
+.form-inputs .form-control {
+    height: 45px
+}
+
+.form-inputs .form-control:focus {
+    box-shadow: none;
+    border: 1px solid #000
+}
+
+.form-inputs i {
+    position: absolute;
+    right: 10px;
+    top: 15px
+}
+.bxs-shopping-bag{
+    color:white;
+}
+.shop-bag {
+    background-color: rgb(197, 83, 83);
+    color: #000000;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center
+}
+
+.qty {
+    font-size: 12px
+}
+.navbar-brand{
+    margin-top: 25px;
+    color: black;
+}
+.ms-n5 {
+    margin-left: -40px;
+}
